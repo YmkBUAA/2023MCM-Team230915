@@ -1,0 +1,16 @@
+	(1)
+VARIABLES	1 try
+	
+letter_add	0.779***
+	(2.69)
+frequency_all	71.140**
+	(2.25)
+same	-0.333***
+	(-3.89)
+Constant	0.655***
+	(4.54)
+	
+Observations	354
+R-squared	0.079
+t-statistics in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
